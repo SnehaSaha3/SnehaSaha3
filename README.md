@@ -1,5 +1,5 @@
-Sneha | Aspiring Developer
-|🎓 Pursuing BCA | New to the world of development
+**About Me:**
+Sneha | Aspiring Developer | 🎓 Pursuing BCA | New to the world of development
 
 Hi! I'm Sneha,🌟 New to the world of coding, but passionate about exploring and learning every day.
 💡 I thrive on challenges and love pushing boundaries to discover innovative solutions.
