@@ -1,9 +1,9 @@
-Debanjana | Aspiring Developer
-👩‍💻 Pursuing BCA | New to the world of development
+Sneha | Aspiring Developer
+🎓 Pursuing BCA | New to the world of development
 
-Hi! I'm Debanjana, an enthusiastic BCA student with a passion for coding and learning new technologies. 
-As a newcomer to the developer community, I'm excited to tackle new challenges and grow my skills day by day. I love solving problems and constantly pushing myself to improve. 
-Currently, I’m exploring web development and aiming to build projects that make a difference. 
+Hi! I'm Sneha,🌟 New to the world of coding, but passionate about exploring and learning every day.
+💡 I thrive on challenges and love pushing boundaries to discover innovative solutions.
+🌐 Currently diving deep into web development, exploring front-end and back-end technologies.
 
 <!---
 SnehaSaha3/SnehaSaha3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
