@@ -1,11 +1,8 @@
+👋 Hi there, I'm Sneha
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78DA7&width=500&lines=Building+my+foundation+in+development;Exploring+full-stack+web+technologies;Learning+by+building+real+projects;Turning+ideas+into+code+🚀" alt="Typing SVG" /> </p> 
+💡 About Me
 
-Sneha | 🎓 Pursuing BCA | New to the world of development
+I’m currently building a strong foundation in development with a focus on practical learning and real projects.
+Instead of just learning theory, I prefer to apply concepts by building, debugging, and improving step by step.
 
-Hi! I'm Sneha,🌟 New to the world of coding, but passionate about exploring and learning every day.
-💡 I thrive on challenges and love pushing boundaries to discover innovative solutions.
-🌐 Currently diving deep into web development, exploring front-end and back-end technologies to build projects that make a difference.
-
-<!---
-SnehaSaha3/SnehaSaha3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m still early in my journey — but consistent, curious, and serious about becoming a skilled developer.
